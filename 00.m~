@@ -1,0 +1,6 @@
+push 12
+push 23
+push 34
+push 17
+add
+nop
